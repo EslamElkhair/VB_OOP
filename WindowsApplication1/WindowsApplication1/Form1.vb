@@ -53,6 +53,7 @@
         firstnum = CDbl(TextBox1.Text)
         operation = "-"
         TextBox1.Text = ""
+
     End Sub
 
     Private Sub Button_mul_Click(sender As System.Object, e As System.EventArgs) Handles Button14.Click
