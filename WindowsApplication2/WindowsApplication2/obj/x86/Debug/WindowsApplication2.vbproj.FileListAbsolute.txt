@@ -1,0 +1,9 @@
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
