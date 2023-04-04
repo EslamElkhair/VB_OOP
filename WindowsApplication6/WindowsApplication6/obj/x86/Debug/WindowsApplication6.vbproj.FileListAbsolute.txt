@@ -1,0 +1,9 @@
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Form1.resources
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Resources.resources
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.exe
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.xml
+C:\Users\Andalus\Desktop\VB_OOP\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.pdb
